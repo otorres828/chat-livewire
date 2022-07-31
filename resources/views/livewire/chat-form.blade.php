@@ -58,7 +58,22 @@
                 wire:loading.attr="disabled"
                 wire:offline.attr="disabled"            
             >Enviar Mensaje</button>
-        </div>        
+        </div> 
+        
+        <div>
+            <h3 class="text-success font-bold pt-3">Autores del proyecto:</h3>
+            <ul>
+                <li>Arturo Canga</li>
+                <li>Ricargo Rolina</li>
+                <li>Alfonzo Jesus</li>
+                <li>Oliver Torres</li>
+            </ul>
+            <h3 class="text-success font-bold pt-3">El mejor profesor de Redes:</h3>
+            <ul>
+                <li>Romel Silva</li>
+            </ul>
+
+        </div>
     </div>
     
     <script>
